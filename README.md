@@ -73,4 +73,5 @@ Running it **unsandboxed** gives the extension the permission it needs to look a
 # people who helped test
 
 [GameRoos449](https://scratch.mit.edu/users/GameRoos449/)
+[BonnieStudio](https://scratch.mit.edu/users/BonnieStudio/)
 
