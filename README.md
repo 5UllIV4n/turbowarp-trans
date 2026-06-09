@@ -40,9 +40,9 @@ syntax crashes!
 ```
     Open TurboWarp.
 
-    Click the Add Extension button at the bottom left.
+    Click the two red blocks with a +.
 
-    Scroll to the absolute bottom and select Custom Extension.
+    Scroll down till you see "Custom Extensions".
 
     Upload your turbowarp_python_transpiler.js file (or paste the source code).
 
@@ -50,7 +50,11 @@ syntax crashes!
 
     Click Load.
 
-    In the new extension category, use the show Python sidebar block to open the view.
+	once you do that you should see a side pannal on the right side and the green download button at the top "⬇️.py"
+
+	cilck the green download button when your ready to download gng.
+
+    (ps,In the new extension category, use the show Python sidebar block to open the view.)
 ```
 
 ## Why does it have to run **"Unsandboxed"**?
