@@ -38,9 +38,9 @@ syntax crashes!
 
  # How to Use in _TurboWarp_
 ```
-    Open TurboWarp.
+    Open TurboWarp and see inside your project.
 
-    Click the two red blocks with a +.
+    Click the two red blocks with a + at the bottom left.
 
     Scroll down till you see "Custom Extensions".
 
